@@ -35,4 +35,4 @@ This web application is built using the following technologies and frameworks:
 ## Screenshot - Contact
 
 <img src="https://github.com/Bokyung022/2023_TheBora_WebDesign/blob/main/The%20Bora/assets/Contact(1).JPG" width="600"/>
-<img src="https://github.com/Bokyung022/2023_TheBora_WebDesign/blob/main/The%20Bora/assets/Contatc(2).JPG" width="600"/>
+<img src="https://github.com/Bokyung022/2023_TheBora_WebDesign/blob/main/The%20Bora/assets/Contact(2).JPG" width="600"/>
